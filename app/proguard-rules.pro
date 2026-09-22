@@ -1,0 +1,2 @@
+-keep class com.hishab.finance.data.local.** { *; }
+-dontwarn kotlinx.**
